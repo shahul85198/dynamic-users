@@ -12,6 +12,18 @@
   # pnpm
     - pnpm install package-name
 
+# deployment (npm run start)
+    - js
+    - css
+    - image
+
+# Build (upload)
+  - npm run build
+  - in this it is used to create auto js , css ,inex.html files
+
+
+
+
 
 
 # Getting Started with Create React App
