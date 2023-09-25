@@ -1,3 +1,19 @@
+
+# to start a project we have to set react project in this we get all the necessary items to project
+ - npx create-react-app dynamic-users
+ - npx create-react-app (project name)
+
+ # and then we have to install node package manager
+   - npm install package-name
+ 
+ # YARN  - facebook
+  - yarn add package-name
+
+  # pnpm
+    - pnpm install package-name
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
