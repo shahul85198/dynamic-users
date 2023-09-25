@@ -21,6 +21,15 @@
   - npm run build
   - in this it is used to create auto js , css ,inex.html files
 
+  # Live server extension is downloaded
+  - it is used to conver  live server
+
+  # we create project in fire base
+
+  - project   -> Vercel
+  - Build Folder -> firebase Hoisting (upload)
+  firebase-tools (command line interface)
+
 
 
 
